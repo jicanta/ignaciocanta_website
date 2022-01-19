@@ -1,3 +1,3 @@
-## Personal Portfolio
-
-![Portfolio Website](https://i.ibb.co/WgPMpts/image.png)
+## My personal website
+Source code for ..., my personal website.
+Built with Next.js.
